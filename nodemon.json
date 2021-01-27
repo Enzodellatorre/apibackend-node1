@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MYQSL_USER":"root",
+        "MYQSL_PASSWORD":"123456aa",
+        "MYQSL_DATABASE":"apinode1",
+        "MYQSL_HOST":"localhost",
+        "MYQSL_PORT":3306
+    }
+    }
